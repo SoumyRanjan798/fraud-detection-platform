@@ -1,0 +1,17 @@
+flask
+flask-cors
+
+numpy
+pandas
+scikit-learn
+xgboost
+
+tensorflow
+
+pyyaml
+python-dotenv
+
+joblib
+
+pytest
+pytest-cov
